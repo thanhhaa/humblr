@@ -6,3 +6,13 @@ compatibility_flags = ["nodejs_compat"]
 
 [vars]
 CF_TEAM_NAME = "konn-san"
+
+[[r2_buckets]]
+binding = "R2"
+bucket_name = "gohumblr"
+preview_bucket_name = "gohumblr-dev"
+
+[[d1_databases]]
+binding = "D1"
+database_name = "gohumblr"
+database_id = "a30caa68-4713-44b3-b130-71b63d50412a"
